@@ -1,6 +1,6 @@
 # Setup4D Consultoria e Desenvolvimento
 
-[![Logo da Setup4D](https://setup4d.com.br/github/assets/logotransparente.png)](https://www.setup4d.com)
+[![Logo da Setup4D](https://setup4d.com.br/github/assets/logotransparente.png)](https://www.setup4d.com.br)
 
 Bem-vindo(a) ao repositório da Setup4D Consultoria e Desenvolvimento! Aqui você encontrará informações sobre nossa empresa, o projeto "Setup4DDAO" e como contribuir para transformar ideias em realidade. Somos uma empresa de informática especializada no desenvolvimento de aplicativos que facilitam a vida dos usuários e outros programadores.
 
